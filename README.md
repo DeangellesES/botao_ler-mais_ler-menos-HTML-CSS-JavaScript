@@ -3,7 +3,7 @@
 <h2>📌 Sobre o Projeto</h2>
 <p>Projeto funcionalidade ler mais e ler menos desenvolvido para aprender essa funcionalidade e colocar em outros projetos.</p>
 
-<h3>💻<a href="https://deangelleses.github.io/app_orcamento_pessoal-HTML-CSS-Bootstrap-JavaScript-jQuery/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
+<h3>💻<a href="https://deangelleses.github.io/botao_ler-mais_ler-menos-HTML-CSS-JavaScript/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
