@@ -27,4 +27,5 @@
   <li>pseudo elemento ::before utilizado para criar ponta na parte superior direita</li>
   <li>pseudo elemento ::before utilizado para fazer efeito de ir escurecendo a parte debaixo do texto</li>
   li>:hover, visibility: hidden, transition: all 0.2s ease-in-out, background: linear-gradient(transparent, #3f3f3f)</li>
+  <li>toggle(), contains()</li>
 </ul>
