@@ -12,7 +12,7 @@
   <li><b>JavaScript</b> - vanilla</li>
 </ul>
 
-<h2>⚙️ Funcionalidades</h2>
+<h2>✨ Funcionalidades</h2>
 <ul>
   <li>Ler o texto completo e esconder o texto</li>
 </ul>
